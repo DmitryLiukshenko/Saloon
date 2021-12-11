@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Saloon">
+
+    <Color x:Key="myRed" R="255" G="74" B="109"/>
+    <Color x:Key="myBlue" R="225" G="228" B="225"/>
+    <SolidColorBrush x:Key="myRedBrush" Color="{StaticResource myRed}"/>
+</ResourceDictionary>
