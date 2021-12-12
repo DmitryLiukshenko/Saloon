@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b51fa4dd-5698-41d4-8d3e-afdedf55bea1": {
+      "ProjectGuid": "b51fa4dd-5698-41d4-8d3e-afdedf55bea1",
+      "DisplayName": "Saloon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

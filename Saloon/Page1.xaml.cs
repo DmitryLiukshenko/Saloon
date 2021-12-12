@@ -36,7 +36,6 @@ namespace Saloon
                 new Services { Title = "Услуга 3", Cost = "1500 рублей", Description = "Что-то очень интересное", Duration = "30 минут"},
                 new Services { Title = "Услуга 4", Cost = "750 рублей", Description = "Что-то очень интересное", Duration = "45 минут" }
             };
-            DGContent.
             DGContent.ItemsSource = servicesList;
         }
     }

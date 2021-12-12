@@ -24,7 +24,7 @@ namespace Saloon
         {
             InitializeComponent();
 
-            frame.
+            
         }
     }
 }
